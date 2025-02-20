@@ -76,7 +76,7 @@ const Development = () => {
                         <img src='/Images/proj1.jpg' className='rounded-xl'/> 
                         <div className='flex flex-row gap-3 justify-center items-center'>
                             <div className='text-sm lg:text-[20px] '>
-                                Slot Flow
+                                CropTech
                             </div> 
                             
                            
