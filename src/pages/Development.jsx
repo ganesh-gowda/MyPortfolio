@@ -119,7 +119,7 @@ const Development = () => {
                           
                 </motion.div>
                 <div className='flex items-center justify-center pt-7'>            
-                    <a href='https://drive.google.com/file/d/1osL4-d1gyeAnynP4yLok3ei0UQ5Kf3cm/view?usp=drive_link' target='_blank' className='w-fit flex flex-row gap-3 items-center justify-center px-5 py-2 bg-myblue border-[1px] border-white rounded-xl'>
+                    <a href='https://drive.google.com/file/d/1vbeAta-XzCsaTv1abXDQXgTzAYwNJJdc/view?usp=sharing' target='_blank' className='w-fit flex flex-row gap-3 items-center justify-center px-5 py-2 bg-myblue border-[1px] border-white rounded-xl'>
                         <div className=''>View Resume</div>
                         <IconContext.Provider value={{size:'1.2em'}}>
                             <IoFlashOutline /> 
