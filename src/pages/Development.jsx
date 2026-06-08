@@ -81,6 +81,8 @@ const Development = () => {
                             
                            
                         </div>
+
+                     
                            
                     </motion.a>    
                     <motion.a href='https://github.com/ganesh-gowda/Crypto-X' target='_blank' id='item' variants={item}  className='flex h-full flex-col gap-3 w-full px-10 py-4 rounded-lg backdrop-filter backdrop-blur-lg bg-mygray text-white font-extralight border-creme border-[1px] items-center justify-center'>
