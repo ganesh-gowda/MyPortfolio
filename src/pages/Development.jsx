@@ -72,11 +72,11 @@ const Development = () => {
                 <div className='px-[30px] sm:px-[75px] text-base md:text-lmd xl:text-lg font-semibold text-center w-full '>Most Recent Projects</div>
 
                 <motion.div id='container' variants={container} initial="hidden" whileInView="visible" exit="visible" viewport={{ amount: 0.0000001, once: true }} className='  px-[30px] sm:px-[75px] grid-cols-1 md:grid-cols-2 grid justify-center items-center gap-8'>
-                    <motion.a href='https://github.com/ganesh-gowda/CropTech.git' target='_blank' id='item' variants={item} className='flex h-full flex-col gap-3 w-full px-10 py-4 rounded-lg bg-mygray backdrop-filter backdrop-blur-lg  text-white font-extralight  border-creme border-[1px] items-center justify-center'>
-                        <img src='/Images/proj1.jpg' className='rounded-xl'/> 
+                    <motion.a href='https://github.com/ganesh-gowda/KrishiAI.git' target='_blank' id='item' variants={item} className='flex h-full flex-col gap-3 w-full px-10 py-4 rounded-lg bg-mygray backdrop-filter backdrop-blur-lg  text-white font-extralight  border-creme border-[1px] items-center justify-center'>
+                        <img src='/Images/krishi.png' className='rounded-xl'/> 
                         <div className='flex flex-row gap-3 justify-center items-center'>
                             <div className='text-sm lg:text-[20px] '>
-                                CropTech
+                                KrishiAI
                             </div> 
                             
                            
@@ -84,7 +84,7 @@ const Development = () => {
                            
                     </motion.a>    
                     <motion.a href='https://github.com/ganesh-gowda/Crypto-X' target='_blank' id='item' variants={item}  className='flex h-full flex-col gap-3 w-full px-10 py-4 rounded-lg backdrop-filter backdrop-blur-lg bg-mygray text-white font-extralight border-creme border-[1px] items-center justify-center'>
-                        <img src='/Images/proj2.png' className='rounded-xl'/> 
+                        <img src='/Images/crypto.png' className='rounded-xl'/> 
                         <div className='flex flex-row gap-3 justify-center items-center'>
                             <div className='text-sm lg:text-[20px]  '>
                                 CryptoX
@@ -119,7 +119,7 @@ const Development = () => {
                           
                 </motion.div>
                 <div className='flex items-center justify-center pt-7'>            
-                    <a href='https://drive.google.com/file/d/12S6_lFz2K9MudiHVvLTB5NUwYk5q2TLa/view?usp=sharing' target='_blank' className='w-fit flex flex-row gap-3 items-center justify-center px-5 py-2 bg-myblue border-[1px] border-white rounded-xl'>
+                    <a href='https://drive.google.com/file/d/1DoRJ84rrxS10eai6qAUfKqbvVnMRnu7b/view?usp=drive_link' target='_blank' className='w-fit flex flex-row gap-3 items-center justify-center px-5 py-2 bg-myblue border-[1px] border-white rounded-xl'>
                         <div className=''>View Resume</div>
                         <IconContext.Provider value={{size:'1.2em'}}>
                             <IoFlashOutline /> 
